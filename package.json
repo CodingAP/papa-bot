@@ -1,0 +1,19 @@
+{
+  "name": "papa-bot",
+  "version": "1.0.0",
+  "description": "Papa's Pizzeria Bot in Node JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingAP/papa-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingAP/papa-bot/issues"
+  },
+  "homepage": "https://github.com/CodingAP/papa-bot#readme"
+}
